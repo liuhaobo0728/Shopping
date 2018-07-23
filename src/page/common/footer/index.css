@@ -1,0 +1,23 @@
+/*
+* @Author: 56513
+* @Date:   2018-07-23 12:04:35
+* @Last Modified by:   56513
+* @Last Modified time: 2018-07-23 12:04:45
+*/
+.footer{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.footer .links{
+    text-align: center;
+    color: #666;
+    line-height: 30px;
+}
+.footer .links .link{
+    padding: 0 10px;
+}
+.footer .copyright{
+    text-align: center;
+    color: #666;
+    line-height: 30px;
+}

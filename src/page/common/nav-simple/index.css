@@ -1,0 +1,18 @@
+/*
+* @Author: 56513
+* @Date:   2018-07-23 11:06:48
+* @Last Modified by:   56513
+* @Last Modified time: 2018-07-23 11:18:04
+*/
+.nav-simple{
+    height: 60px;
+    line-height: 60px;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+}
+.nav-simple .logo{
+    font-size: 26px;
+    font-weight: bold;
+    color: #c60023;
+    text-decoration: none;
+}
