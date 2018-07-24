@@ -1,9 +1,4 @@
-/*
-* @Author: 56513
-* @Date:   2018-07-23 11:59:57
-* @Last Modified by:   56513
-* @Last Modified time: 2018-07-23 12:11:19
-*/
+
 var _shop = require('util/shop.js');
 
 var _cart = {

@@ -1,9 +1,4 @@
-/*
-* @Author: 56513
-* @Date:   2018-07-23 12:42:16
-* @Last Modified by:   56513
-* @Last Modified time: 2018-07-23 12:45:59
-*/
+
 require('./index.css');
 var _shop = require('util/shop.js');
 var templateIndex = require('./index.string');
@@ -40,4 +35,4 @@ var navSide = {
     }
 };
 
-module.exports = navSide;/*
+module.exports = navSide;

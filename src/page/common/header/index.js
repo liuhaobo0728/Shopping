@@ -1,9 +1,3 @@
-/*
-* @Author: 56513
-* @Date:   2018-07-23 12:18:21
-* @Last Modified by:   56513
-* @Last Modified time: 2018-07-23 12:26:22
-*/
 require('./index.css');
 
 var _shop = require('util/shop.js');

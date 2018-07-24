@@ -2,7 +2,7 @@
 * @Author: 56513
 * @Date:   2018-07-20 17:49:37
 * @Last Modified by:   56513
-* @Last Modified time: 2018-07-23 11:39:50
+* @Last Modified time: 2018-07-23 13:23:17
 */
 var Hg = require('hogan.js'); 	
 var conf = {
@@ -78,7 +78,7 @@ var conf = {
  	},
  	//统一登录验证
  	doLogin: function() {
- 		window.location.href = './login.html?redirect=' +encodeURIComponent(window.location.href);
+ 		window.location.href = './user-login.html?redirect=' +encodeURIComponent(window.location.href);
  	},
  	//返回主页
  	goHome: function() {
